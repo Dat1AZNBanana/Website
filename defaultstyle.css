@@ -1,0 +1,18 @@
+body {
+	background: url(/image/defaultbg.jpg);
+	background-size: cover;
+}
+p {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+	text-align: center;
+	text-align: middle;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	border: 3px solid;
+	background-color: #FFFFFF;
+}
